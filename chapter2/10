@@ -1,0 +1,2 @@
+在while循环中，使用using声明了cout来自于std，所以在循环的结构体中，可以直接使用cout；
+在while循环外，必须使用std:: 来指明cout的命名空间
